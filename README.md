@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 My name is Subha Elangovan,a passionate coder.
 
-<!--
-**se21/se21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer & a problem solver. I mostly work with web development using JavaScript & libraries like Node.js, TypeScript & Angular, and I focus on clean & performant code. I also work on Progressive web apps and full-stack development using PHP, MYSQL.
 
-Here are some ideas to get you started:
+My interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Converting problems to solutions.<br/>
+  Learning new technologies to enhance my coding skills.
+
+I'm currently working on
+
+  Building a fitness platform to ease the users in the process of enrolling to a fitness plan,communicate with tutor and track their progress.
+
+
+
+
